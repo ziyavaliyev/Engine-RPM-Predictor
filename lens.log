@@ -1,0 +1,1173 @@
+2024-07-08 14:48:16,096 - INFO - Start logging
+2024-07-08 14:48:16,682 - INFO - Creating a map...
+2024-07-08 14:48:16,719 - INFO - The map is saved in the maps folder
+2024-07-08 14:48:17,416 - INFO - Interpolating MD values: 10%
+2024-07-08 14:48:17,741 - INFO - Interpolating MD values: 20%
+2024-07-08 14:48:18,082 - INFO - Interpolating MD values: 30%
+2024-07-08 14:48:18,387 - INFO - Interpolating MD values: 40%
+2024-07-08 14:48:18,687 - INFO - Interpolating MD values: 50%
+2024-07-08 14:48:18,988 - INFO - Interpolating MD values: 60%
+2024-07-08 14:48:19,263 - INFO - Interpolating MD values: 70%
+2024-07-08 14:48:19,539 - INFO - Interpolating MD values: 80%
+2024-07-08 14:48:19,820 - INFO - Interpolating MD values: 90%
+2024-07-08 14:48:20,094 - INFO - Interpolating MD values: 100%
+2024-07-08 14:48:20,096 - INFO - Interpolation is done
+2024-07-08 14:48:28,752 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-07-08 14:48:28,753 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-07-08 14:52:15,937 - INFO - Start logging
+2024-07-08 14:52:16,488 - INFO - Creating a map...
+2024-07-08 14:52:16,515 - INFO - The map is saved in the maps folder
+2024-07-08 14:52:17,117 - INFO - Interpolating MD values: 10%
+2024-07-08 14:52:17,389 - INFO - Interpolating MD values: 20%
+2024-07-08 14:52:17,669 - INFO - Interpolating MD values: 30%
+2024-07-08 14:52:17,944 - INFO - Interpolating MD values: 40%
+2024-07-08 14:52:18,219 - INFO - Interpolating MD values: 50%
+2024-07-08 14:52:18,494 - INFO - Interpolating MD values: 60%
+2024-07-08 14:52:18,776 - INFO - Interpolating MD values: 70%
+2024-07-08 14:52:19,068 - INFO - Interpolating MD values: 80%
+2024-07-08 14:52:19,365 - INFO - Interpolating MD values: 90%
+2024-07-08 14:52:19,645 - INFO - Interpolating MD values: 100%
+2024-07-08 14:52:19,647 - INFO - Interpolation is done
+2024-07-08 14:53:04,769 - INFO - Start logging
+2024-07-08 14:53:05,824 - INFO - Creating a map...
+2024-07-08 14:53:05,861 - INFO - The map is saved in the maps folder
+2024-07-08 14:53:06,863 - INFO - Interpolating MD values: 10%
+2024-07-08 14:53:07,383 - INFO - Interpolating MD values: 20%
+2024-07-08 14:53:07,954 - INFO - Interpolating MD values: 30%
+2024-07-08 14:53:08,552 - INFO - Interpolating MD values: 40%
+2024-07-08 14:53:09,104 - INFO - Interpolating MD values: 50%
+2024-07-08 14:53:09,701 - INFO - Interpolating MD values: 60%
+2024-07-08 14:53:10,324 - INFO - Interpolating MD values: 70%
+2024-07-08 14:53:10,926 - INFO - Interpolating MD values: 80%
+2024-07-08 14:53:11,475 - INFO - Interpolating MD values: 90%
+2024-07-08 14:53:11,993 - INFO - Interpolating MD values: 100%
+2024-07-08 14:53:11,994 - INFO - Interpolation is done
+2024-07-08 14:54:13,862 - INFO - Start logging
+2024-07-08 14:54:14,920 - INFO - Creating a map...
+2024-07-08 14:54:14,955 - INFO - The map is saved in the maps folder
+2024-07-08 14:54:15,276 - INFO - Interpolating MD values: 10%
+2024-07-08 14:54:15,443 - INFO - Interpolating MD values: 20%
+2024-07-08 14:54:15,607 - INFO - Interpolating MD values: 30%
+2024-07-08 14:54:15,769 - INFO - Interpolating MD values: 40%
+2024-07-08 14:54:15,932 - INFO - Interpolating MD values: 50%
+2024-07-08 14:54:16,095 - INFO - Interpolating MD values: 60%
+2024-07-08 14:54:16,258 - INFO - Interpolating MD values: 70%
+2024-07-08 14:54:16,422 - INFO - Interpolating MD values: 80%
+2024-07-08 14:54:16,585 - INFO - Interpolating MD values: 90%
+2024-07-08 14:54:16,748 - INFO - Interpolating MD values: 100%
+2024-07-08 14:54:16,749 - INFO - Interpolation is done
+2024-07-08 14:55:42,003 - INFO - Start logging
+2024-07-08 14:55:43,057 - INFO - Creating a map...
+2024-07-08 14:55:43,093 - INFO - The map is saved in the maps folder
+2024-07-08 14:55:44,146 - INFO - Interpolating MD values: 10%
+2024-07-08 14:55:44,726 - INFO - Interpolating MD values: 20%
+2024-07-08 14:55:45,312 - INFO - Interpolating MD values: 30%
+2024-07-08 14:55:45,906 - INFO - Interpolating MD values: 40%
+2024-07-08 14:55:46,585 - INFO - Interpolating MD values: 50%
+2024-07-08 14:55:47,221 - INFO - Interpolating MD values: 60%
+2024-07-08 14:55:47,879 - INFO - Interpolating MD values: 70%
+2024-07-08 14:55:48,489 - INFO - Interpolating MD values: 80%
+2024-07-08 14:55:49,143 - INFO - Interpolating MD values: 90%
+2024-07-08 14:55:49,773 - INFO - Interpolating MD values: 100%
+2024-07-08 14:55:49,774 - INFO - Interpolation is done
+2024-07-08 14:57:17,676 - INFO - Start logging
+2024-07-08 14:57:18,751 - INFO - Creating a map...
+2024-07-08 14:57:18,788 - INFO - The map is saved in the maps folder
+2024-07-08 14:57:19,763 - INFO - Interpolating MD values: 10%
+2024-07-08 14:57:20,243 - INFO - Interpolating MD values: 20%
+2024-07-08 14:57:20,729 - INFO - Interpolating MD values: 30%
+2024-07-08 14:57:21,208 - INFO - Interpolating MD values: 40%
+2024-07-08 14:57:21,689 - INFO - Interpolating MD values: 50%
+2024-07-08 14:57:22,216 - INFO - Interpolating MD values: 60%
+2024-07-08 14:57:22,770 - INFO - Interpolating MD values: 70%
+2024-07-08 14:57:23,269 - INFO - Interpolating MD values: 80%
+2024-07-08 14:57:23,770 - INFO - Interpolating MD values: 90%
+2024-07-08 14:57:24,282 - INFO - Interpolating MD values: 100%
+2024-07-08 14:57:24,282 - INFO - Interpolation is done
+2024-07-08 15:00:53,343 - INFO - Start logging
+2024-07-08 15:00:54,399 - INFO - Creating a map...
+2024-07-08 15:00:54,437 - INFO - The map is saved in the maps folder
+2024-07-08 15:00:55,474 - INFO - Interpolating MD values: 10%
+2024-07-08 15:00:55,985 - INFO - Interpolating MD values: 20%
+2024-07-08 15:00:56,469 - INFO - Interpolating MD values: 30%
+2024-07-08 15:00:56,951 - INFO - Interpolating MD values: 40%
+2024-07-08 15:00:57,455 - INFO - Interpolating MD values: 50%
+2024-07-08 15:00:57,967 - INFO - Interpolating MD values: 60%
+2024-07-08 15:00:58,461 - INFO - Interpolating MD values: 70%
+2024-07-08 15:00:58,986 - INFO - Interpolating MD values: 80%
+2024-07-08 15:00:59,576 - INFO - Interpolating MD values: 90%
+2024-07-08 15:01:00,154 - INFO - Interpolating MD values: 100%
+2024-07-08 15:01:00,154 - INFO - Interpolation is done
+2024-07-08 15:03:00,550 - INFO - Start logging
+2024-07-08 15:03:01,728 - INFO - Creating a map...
+2024-07-08 15:03:01,787 - INFO - The map is saved in the maps folder
+2024-07-08 15:03:44,497 - INFO - Interpolating MD values: 10%
+2024-07-08 15:03:50,430 - INFO - Interpolating MD values: 20%
+2024-07-08 15:03:56,284 - INFO - Interpolating MD values: 30%
+2024-07-08 15:04:02,069 - INFO - Interpolating MD values: 40%
+2024-07-08 15:04:07,829 - INFO - Interpolating MD values: 50%
+2024-07-08 15:04:13,594 - INFO - Interpolating MD values: 60%
+2024-07-08 15:04:19,478 - INFO - Interpolating MD values: 70%
+2024-07-08 15:04:25,323 - INFO - Interpolating MD values: 80%
+2024-07-08 15:04:31,309 - INFO - Interpolating MD values: 90%
+2024-07-08 15:04:37,181 - INFO - Interpolating MD values: 100%
+2024-07-08 15:04:37,186 - INFO - Interpolation is done
+2024-07-08 15:12:03,343 - INFO - Start logging
+2024-07-08 15:12:04,431 - INFO - Creating a map...
+2024-07-08 15:12:04,468 - INFO - The map is saved in the maps folder
+2024-07-08 15:12:05,471 - INFO - Interpolating MD values: 10%
+2024-07-08 15:12:05,988 - INFO - Interpolating MD values: 20%
+2024-07-08 15:12:06,518 - INFO - Interpolating MD values: 30%
+2024-07-08 15:12:07,053 - INFO - Interpolating MD values: 40%
+2024-07-08 15:12:07,595 - INFO - Interpolating MD values: 50%
+2024-07-08 15:12:08,194 - INFO - Interpolating MD values: 60%
+2024-07-08 15:12:08,780 - INFO - Interpolating MD values: 70%
+2024-07-08 15:12:09,338 - INFO - Interpolating MD values: 80%
+2024-07-08 15:12:09,929 - INFO - Interpolating MD values: 90%
+2024-07-08 15:12:10,461 - INFO - Interpolating MD values: 100%
+2024-07-08 15:12:10,461 - INFO - Interpolation is done
+2024-07-08 15:12:44,491 - INFO - Start logging
+2024-07-08 15:12:45,598 - INFO - Creating a map...
+2024-07-08 15:12:45,636 - INFO - The map is saved in the maps folder
+2024-07-08 15:12:46,660 - INFO - Interpolating MD values: 10%
+2024-07-08 15:12:47,189 - INFO - Interpolating MD values: 20%
+2024-07-08 15:12:47,806 - INFO - Interpolating MD values: 30%
+2024-07-08 15:12:48,443 - INFO - Interpolating MD values: 40%
+2024-07-08 15:12:49,140 - INFO - Interpolating MD values: 50%
+2024-07-08 15:12:49,726 - INFO - Interpolating MD values: 60%
+2024-07-08 15:12:50,301 - INFO - Interpolating MD values: 70%
+2024-07-08 15:12:50,859 - INFO - Interpolating MD values: 80%
+2024-07-08 15:12:51,471 - INFO - Interpolating MD values: 90%
+2024-07-08 15:12:52,012 - INFO - Interpolating MD values: 100%
+2024-07-08 15:12:52,012 - INFO - Interpolation is done
+2024-07-08 15:13:29,910 - INFO - Start logging
+2024-07-08 15:13:30,994 - INFO - Creating a map...
+2024-07-08 15:13:31,030 - INFO - The map is saved in the maps folder
+2024-07-08 15:13:32,009 - INFO - Interpolating MD values: 10%
+2024-07-08 15:13:32,492 - INFO - Interpolating MD values: 20%
+2024-07-08 15:13:32,975 - INFO - Interpolating MD values: 30%
+2024-07-08 15:13:33,466 - INFO - Interpolating MD values: 40%
+2024-07-08 15:13:33,959 - INFO - Interpolating MD values: 50%
+2024-07-08 15:13:34,470 - INFO - Interpolating MD values: 60%
+2024-07-08 15:13:34,974 - INFO - Interpolating MD values: 70%
+2024-07-08 15:13:35,481 - INFO - Interpolating MD values: 80%
+2024-07-08 15:13:36,024 - INFO - Interpolating MD values: 90%
+2024-07-08 15:13:36,535 - INFO - Interpolating MD values: 100%
+2024-07-08 15:13:36,535 - INFO - Interpolation is done
+2024-07-19 16:26:25,048 - INFO - Start logging
+2024-07-19 16:26:28,577 - INFO - Creating a map...
+2024-07-19 16:26:28,727 - INFO - The map is saved in the maps folder
+2024-07-19 16:26:31,175 - INFO - Interpolating MD values: 10%
+2024-07-19 16:26:32,349 - INFO - Interpolating MD values: 20%
+2024-07-19 16:26:33,577 - INFO - Interpolating MD values: 30%
+2024-07-19 16:26:34,808 - INFO - Interpolating MD values: 40%
+2024-07-19 16:26:36,061 - INFO - Interpolating MD values: 50%
+2024-07-19 16:26:37,351 - INFO - Interpolating MD values: 60%
+2024-07-19 16:26:38,926 - INFO - Interpolating MD values: 70%
+2024-07-19 16:26:40,207 - INFO - Interpolating MD values: 80%
+2024-07-19 16:26:41,460 - INFO - Interpolating MD values: 90%
+2024-07-19 16:26:42,707 - INFO - Interpolating MD values: 100%
+2024-07-19 16:26:42,712 - INFO - Interpolation is done
+2024-07-19 16:28:55,241 - INFO - Start logging
+2024-07-19 16:28:58,715 - INFO - Creating a map...
+2024-07-19 16:28:58,857 - INFO - The map is saved in the maps folder
+2024-07-19 16:29:01,191 - INFO - Interpolating MD values: 10%
+2024-07-19 16:29:02,259 - INFO - Interpolating MD values: 20%
+2024-07-19 16:29:03,325 - INFO - Interpolating MD values: 30%
+2024-07-19 16:29:04,387 - INFO - Interpolating MD values: 40%
+2024-07-19 16:29:05,453 - INFO - Interpolating MD values: 50%
+2024-07-19 16:29:06,522 - INFO - Interpolating MD values: 60%
+2024-07-19 16:29:07,587 - INFO - Interpolating MD values: 70%
+2024-07-19 16:29:08,653 - INFO - Interpolating MD values: 80%
+2024-07-19 16:29:09,740 - INFO - Interpolating MD values: 90%
+2024-07-19 16:29:10,816 - INFO - Interpolating MD values: 100%
+2024-07-19 16:29:10,816 - INFO - Interpolation is done
+2024-07-19 17:01:32,907 - INFO - Start logging
+2024-07-19 17:01:36,493 - INFO - Creating a map...
+2024-07-19 17:01:36,650 - INFO - The map is saved in the maps folder
+2024-07-19 17:01:38,871 - INFO - Interpolating MD values: 10%
+2024-07-19 17:01:39,943 - INFO - Interpolating MD values: 20%
+2024-07-19 17:01:41,000 - INFO - Interpolating MD values: 30%
+2024-07-19 17:01:42,016 - INFO - Interpolating MD values: 40%
+2024-07-19 17:01:43,038 - INFO - Interpolating MD values: 50%
+2024-07-19 17:01:44,075 - INFO - Interpolating MD values: 60%
+2024-07-19 17:01:45,086 - INFO - Interpolating MD values: 70%
+2024-07-19 17:01:46,185 - INFO - Interpolating MD values: 80%
+2024-07-19 17:01:47,203 - INFO - Interpolating MD values: 90%
+2024-07-19 17:01:48,220 - INFO - Interpolating MD values: 100%
+2024-07-19 17:01:48,230 - INFO - Interpolation is done
+2024-07-19 17:12:36,902 - INFO - Start logging
+2024-07-19 17:12:40,670 - INFO - Creating a map...
+2024-07-19 17:12:40,852 - INFO - The map is saved in the maps folder
+2024-07-19 17:12:43,371 - INFO - Interpolating MD values: 10%
+2024-07-19 17:12:44,515 - INFO - Interpolating MD values: 20%
+2024-07-19 17:12:45,663 - INFO - Interpolating MD values: 30%
+2024-07-19 17:12:46,748 - INFO - Interpolating MD values: 40%
+2024-07-19 17:12:47,840 - INFO - Interpolating MD values: 50%
+2024-07-19 17:12:49,031 - INFO - Interpolating MD values: 60%
+2024-07-19 17:12:50,192 - INFO - Interpolating MD values: 70%
+2024-07-19 17:12:51,305 - INFO - Interpolating MD values: 80%
+2024-07-19 17:12:52,392 - INFO - Interpolating MD values: 90%
+2024-07-19 17:12:53,461 - INFO - Interpolating MD values: 100%
+2024-07-19 17:12:53,461 - INFO - Interpolation is done
+2024-07-19 17:15:01,735 - INFO - Start logging
+2024-07-19 17:15:05,190 - INFO - Creating a map...
+2024-07-19 17:15:05,343 - INFO - The map is saved in the maps folder
+2024-07-19 17:15:07,620 - INFO - Interpolating MD values: 10%
+2024-07-19 17:15:08,676 - INFO - Interpolating MD values: 20%
+2024-07-19 17:15:09,777 - INFO - Interpolating MD values: 30%
+2024-07-19 17:15:10,802 - INFO - Interpolating MD values: 40%
+2024-07-19 17:15:11,836 - INFO - Interpolating MD values: 50%
+2024-07-19 17:15:12,875 - INFO - Interpolating MD values: 60%
+2024-07-19 17:15:13,896 - INFO - Interpolating MD values: 70%
+2024-07-19 17:15:15,002 - INFO - Interpolating MD values: 80%
+2024-07-19 17:15:16,035 - INFO - Interpolating MD values: 90%
+2024-07-19 17:15:17,064 - INFO - Interpolating MD values: 100%
+2024-07-19 17:15:17,072 - INFO - Interpolation is done
+2024-07-19 17:16:38,831 - INFO - Start logging
+2024-07-19 17:16:42,198 - INFO - Creating a map...
+2024-07-19 17:16:42,342 - INFO - The map is saved in the maps folder
+2024-07-19 17:16:44,595 - INFO - Interpolating MD values: 10%
+2024-07-19 17:16:45,639 - INFO - Interpolating MD values: 20%
+2024-07-19 17:16:46,719 - INFO - Interpolating MD values: 30%
+2024-07-19 17:16:47,813 - INFO - Interpolating MD values: 40%
+2024-07-19 17:16:48,856 - INFO - Interpolating MD values: 50%
+2024-07-19 17:16:49,909 - INFO - Interpolating MD values: 60%
+2024-07-19 17:16:50,950 - INFO - Interpolating MD values: 70%
+2024-07-19 17:16:51,992 - INFO - Interpolating MD values: 80%
+2024-07-19 17:16:53,117 - INFO - Interpolating MD values: 90%
+2024-07-19 17:16:54,154 - INFO - Interpolating MD values: 100%
+2024-07-19 17:16:54,162 - INFO - Interpolation is done
+2024-07-19 17:17:41,410 - INFO - Start logging
+2024-07-19 17:17:44,856 - INFO - Creating a map...
+2024-07-19 17:17:45,020 - INFO - The map is saved in the maps folder
+2024-07-19 17:17:47,326 - INFO - Interpolating MD values: 10%
+2024-07-19 17:17:48,425 - INFO - Interpolating MD values: 20%
+2024-07-19 17:17:49,508 - INFO - Interpolating MD values: 30%
+2024-07-19 17:17:50,560 - INFO - Interpolating MD values: 40%
+2024-07-19 17:17:51,616 - INFO - Interpolating MD values: 50%
+2024-07-19 17:17:52,711 - INFO - Interpolating MD values: 60%
+2024-07-19 17:17:53,785 - INFO - Interpolating MD values: 70%
+2024-07-19 17:17:54,885 - INFO - Interpolating MD values: 80%
+2024-07-19 17:17:55,939 - INFO - Interpolating MD values: 90%
+2024-07-19 17:17:57,001 - INFO - Interpolating MD values: 100%
+2024-07-19 17:17:57,009 - INFO - Interpolation is done
+2024-07-19 17:20:48,269 - INFO - Start logging
+2024-07-19 17:20:51,655 - INFO - Creating a map...
+2024-07-19 17:20:51,815 - INFO - The map is saved in the maps folder
+2024-07-19 17:20:54,075 - INFO - Interpolating MD values: 10%
+2024-07-19 17:20:55,172 - INFO - Interpolating MD values: 20%
+2024-07-19 17:20:56,376 - INFO - Interpolating MD values: 30%
+2024-07-19 17:20:57,395 - INFO - Interpolating MD values: 40%
+2024-07-19 17:20:58,410 - INFO - Interpolating MD values: 50%
+2024-07-19 17:20:59,428 - INFO - Interpolating MD values: 60%
+2024-07-19 17:21:00,431 - INFO - Interpolating MD values: 70%
+2024-07-19 17:21:01,439 - INFO - Interpolating MD values: 80%
+2024-07-19 17:21:02,442 - INFO - Interpolating MD values: 90%
+2024-07-19 17:21:03,454 - INFO - Interpolating MD values: 100%
+2024-07-19 17:21:03,462 - INFO - Interpolation is done
+2024-07-25 10:31:18,328 - INFO - Epoch [100/1000], Train Loss: 0.7745, Val Loss: 0.8131
+2024-07-25 10:31:48,893 - INFO - Epoch [200/1000], Train Loss: 0.7394, Val Loss: 0.7893
+2024-07-25 10:32:18,951 - INFO - Epoch [300/1000], Train Loss: 0.7259, Val Loss: 0.7808
+2024-07-25 10:32:48,714 - INFO - Epoch [400/1000], Train Loss: 0.7283, Val Loss: 0.7698
+2024-07-25 10:33:18,803 - INFO - Epoch [500/1000], Train Loss: 0.7195, Val Loss: 0.7575
+2024-07-25 10:33:48,864 - INFO - Epoch [600/1000], Train Loss: 0.7221, Val Loss: 0.7569
+2024-07-25 10:34:17,745 - INFO - Epoch [700/1000], Train Loss: 0.7113, Val Loss: 0.7623
+2024-07-25 10:34:47,122 - INFO - Epoch [800/1000], Train Loss: 0.7111, Val Loss: 0.7572
+2024-07-25 10:35:22,038 - INFO - Epoch [900/1000], Train Loss: 0.7160, Val Loss: 0.7690
+2024-07-25 10:35:57,322 - INFO - Epoch [1000/1000], Train Loss: 0.7092, Val Loss: 0.7474
+2024-07-25 10:35:57,375 - INFO - Predicted values: [[4627.389 ]
+ [1921.9407]
+ [2453.7776]
+ ...
+ [3306.626 ]
+ [2406.9934]
+ [3052.0078]]
+2024-07-25 10:35:57,379 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 10:35:57,380 - INFO - Model Architecture:
+2024-07-25 10:35:57,385 - INFO - FeedForwardNN(
+  (layer1): Linear(in_features=1, out_features=128, bias=True)
+  (layer2): Linear(in_features=128, out_features=256, bias=True)
+  (layer3): Linear(in_features=256, out_features=512, bias=True)
+  (layer4): Linear(in_features=512, out_features=256, bias=True)
+  (layer5): Linear(in_features=256, out_features=128, bias=True)
+  (layer6): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 10:35:57,388 - INFO - 
+Layers and Parameters:
+2024-07-25 10:35:57,390 - INFO - layer1.weight - torch.Size([128, 1])
+2024-07-25 10:35:57,391 - INFO - layer1.bias - torch.Size([128])
+2024-07-25 10:35:57,395 - INFO - layer2.weight - torch.Size([256, 128])
+2024-07-25 10:35:57,397 - INFO - layer2.bias - torch.Size([256])
+2024-07-25 10:35:57,398 - INFO - layer3.weight - torch.Size([512, 256])
+2024-07-25 10:35:57,399 - INFO - layer3.bias - torch.Size([512])
+2024-07-25 10:35:57,401 - INFO - layer4.weight - torch.Size([256, 512])
+2024-07-25 10:35:57,403 - INFO - layer4.bias - torch.Size([256])
+2024-07-25 10:35:57,404 - INFO - layer5.weight - torch.Size([128, 256])
+2024-07-25 10:35:57,405 - INFO - layer5.bias - torch.Size([128])
+2024-07-25 10:35:57,407 - INFO - layer6.weight - torch.Size([1, 128])
+2024-07-25 10:35:57,410 - INFO - layer6.bias - torch.Size([1])
+2024-07-25 10:35:57,411 - INFO - 
+Optimizer:
+2024-07-25 10:35:57,413 - INFO - SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)
+2024-07-25 10:35:57,417 - INFO - Learning Rate: 0.001
+2024-07-25 10:35:57,420 - INFO - 
+Loss Function:
+2024-07-25 10:35:57,422 - INFO - MSELoss()
+2024-07-25 10:35:57,423 - INFO - 
+Training Details:
+2024-07-25 10:35:57,426 - INFO - Number of Epochs: 1000
+2024-07-25 10:37:25,119 - INFO - Predicted values: [[3479.1929]
+ [3526.7036]
+ [3420.351 ]
+ ...
+ [3126.2422]
+ [2901.1704]
+ [2406.39  ]]
+2024-07-25 10:37:25,123 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 10:37:25,128 - INFO - Model Architecture:
+2024-07-25 10:37:25,131 - INFO - FeedForwardNN(
+  (layer1): Linear(in_features=1, out_features=128, bias=True)
+  (layer2): Linear(in_features=128, out_features=256, bias=True)
+  (layer3): Linear(in_features=256, out_features=512, bias=True)
+  (layer4): Linear(in_features=512, out_features=256, bias=True)
+  (layer5): Linear(in_features=256, out_features=128, bias=True)
+  (layer6): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 10:37:25,136 - INFO - 
+Layers and Parameters:
+2024-07-25 10:37:25,141 - INFO - layer1.weight - torch.Size([128, 1])
+2024-07-25 10:37:25,142 - INFO - layer1.bias - torch.Size([128])
+2024-07-25 10:37:25,144 - INFO - layer2.weight - torch.Size([256, 128])
+2024-07-25 10:37:25,146 - INFO - layer2.bias - torch.Size([256])
+2024-07-25 10:37:25,148 - INFO - layer3.weight - torch.Size([512, 256])
+2024-07-25 10:37:25,150 - INFO - layer3.bias - torch.Size([512])
+2024-07-25 10:37:25,153 - INFO - layer4.weight - torch.Size([256, 512])
+2024-07-25 10:37:25,155 - INFO - layer4.bias - torch.Size([256])
+2024-07-25 10:37:25,157 - INFO - layer5.weight - torch.Size([128, 256])
+2024-07-25 10:37:25,159 - INFO - layer5.bias - torch.Size([128])
+2024-07-25 10:37:25,161 - INFO - layer6.weight - torch.Size([1, 128])
+2024-07-25 10:37:25,163 - INFO - layer6.bias - torch.Size([1])
+2024-07-25 10:37:25,165 - INFO - 
+Optimizer:
+2024-07-25 10:37:25,167 - INFO - SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)
+2024-07-25 10:37:25,171 - INFO - Learning Rate: 0.001
+2024-07-25 10:37:25,172 - INFO - 
+Loss Function:
+2024-07-25 10:37:25,175 - INFO - MSELoss()
+2024-07-25 10:37:25,176 - INFO - 
+Training Details:
+2024-07-25 10:37:25,178 - INFO - Number of Epochs: 1000
+2024-07-25 10:40:08,029 - INFO - Predicted values: [[4317.4707]
+ [3880.9275]
+ [2933.6875]
+ ...
+ [7087.634 ]
+ [7106.342 ]
+ [7096.2275]]
+2024-07-25 10:40:08,033 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 10:40:08,035 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 50, batch_first=True)
+  (linear): Linear(in_features=50, out_features=1, bias=True)
+)
+2024-07-25 10:40:08,040 - INFO - 
+Layers and Parameters:
+2024-07-25 10:40:08,045 - INFO - lstm.weight_ih_l0 - torch.Size([200, 1])
+2024-07-25 10:40:08,048 - INFO - lstm.weight_hh_l0 - torch.Size([200, 50])
+2024-07-25 10:40:08,051 - INFO - lstm.bias_ih_l0 - torch.Size([200])
+2024-07-25 10:40:08,054 - INFO - lstm.bias_hh_l0 - torch.Size([200])
+2024-07-25 10:40:08,055 - INFO - linear.weight - torch.Size([1, 50])
+2024-07-25 10:40:08,056 - INFO - linear.bias - torch.Size([1])
+2024-07-25 10:40:08,059 - INFO - 
+Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 10:40:08,062 - INFO - Learning Rate: 0.001
+2024-07-25 10:40:08,064 - INFO - 
+Loss Function: MSELoss()
+2024-07-25 10:40:08,066 - INFO - 
+Training Details:
+2024-07-25 10:40:08,068 - INFO - Number of Epochs: 1000
+2024-07-25 10:52:39,771 - INFO - Predicted values: [[4430.013  ]
+ [3001.1729 ]
+ [ 847.16064]
+ ...
+ [2323.43   ]
+ [2319.394  ]
+ [2319.6921 ]]
+2024-07-25 10:52:39,771 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 10:52:39,781 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 256, num_layers=3, batch_first=True)
+  (linear): Linear(in_features=256, out_features=1, bias=True)
+)
+2024-07-25 10:52:39,788 - INFO - Layers and Parameters:
+2024-07-25 10:52:39,792 - INFO - lstm.weight_ih_l0 - torch.Size([1024, 1])
+2024-07-25 10:52:39,795 - INFO - lstm.weight_hh_l0 - torch.Size([1024, 256])
+2024-07-25 10:52:39,798 - INFO - lstm.bias_ih_l0 - torch.Size([1024])
+2024-07-25 10:52:39,801 - INFO - lstm.bias_hh_l0 - torch.Size([1024])
+2024-07-25 10:52:39,802 - INFO - lstm.weight_ih_l1 - torch.Size([1024, 256])
+2024-07-25 10:52:39,804 - INFO - lstm.weight_hh_l1 - torch.Size([1024, 256])
+2024-07-25 10:52:39,806 - INFO - lstm.bias_ih_l1 - torch.Size([1024])
+2024-07-25 10:52:39,807 - INFO - lstm.bias_hh_l1 - torch.Size([1024])
+2024-07-25 10:52:39,808 - INFO - lstm.weight_ih_l2 - torch.Size([1024, 256])
+2024-07-25 10:52:39,810 - INFO - lstm.weight_hh_l2 - torch.Size([1024, 256])
+2024-07-25 10:52:39,811 - INFO - lstm.bias_ih_l2 - torch.Size([1024])
+2024-07-25 10:52:39,813 - INFO - lstm.bias_hh_l2 - torch.Size([1024])
+2024-07-25 10:52:39,815 - INFO - linear.weight - torch.Size([1, 256])
+2024-07-25 10:52:39,817 - INFO - linear.bias - torch.Size([1])
+2024-07-25 10:52:39,820 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 10:52:39,823 - INFO - Learning Rate: 0.001
+2024-07-25 10:52:39,824 - INFO - Loss Function: MSELoss()
+2024-07-25 10:52:39,826 - INFO - Number of Epochs: 1000
+2024-07-25 10:54:26,580 - INFO - Epoch [100/1000], Train Loss: 0.6084, Val Loss: 0.9910
+2024-07-25 10:54:29,153 - INFO - Epoch [200/1000], Train Loss: 0.4883, Val Loss: 0.7660
+2024-07-25 10:54:31,589 - INFO - Epoch [300/1000], Train Loss: 0.4876, Val Loss: 1.1220
+2024-07-25 10:54:34,288 - INFO - Epoch [400/1000], Train Loss: 0.4546, Val Loss: 1.1125
+2024-07-25 10:54:36,809 - INFO - Epoch [500/1000], Train Loss: 0.3397, Val Loss: 1.2781
+2024-07-25 10:54:39,412 - INFO - Epoch [600/1000], Train Loss: 0.3235, Val Loss: 1.2408
+2024-07-25 10:54:41,864 - INFO - Epoch [700/1000], Train Loss: 0.3413, Val Loss: 0.8062
+2024-07-25 10:54:44,415 - INFO - Epoch [800/1000], Train Loss: 0.3071, Val Loss: 1.1800
+2024-07-25 10:54:46,991 - INFO - Epoch [900/1000], Train Loss: 0.3725, Val Loss: 0.7362
+2024-07-25 10:54:49,553 - INFO - Epoch [1000/1000], Train Loss: 0.3774, Val Loss: 0.6454
+2024-07-25 10:54:49,586 - INFO - Predicted values: [[4549.065 ]
+ [4250.3203]
+ [3427.8145]
+ ...
+ [6017.6045]
+ [5991.665 ]
+ [6012.4424]]
+2024-07-25 10:54:49,588 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 10:54:49,591 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 20, batch_first=True)
+  (linear): Linear(in_features=20, out_features=1, bias=True)
+)
+2024-07-25 10:54:49,593 - INFO - Layers and Parameters:
+2024-07-25 10:54:49,595 - INFO - lstm.weight_ih_l0 - torch.Size([80, 1])
+2024-07-25 10:54:49,597 - INFO - lstm.weight_hh_l0 - torch.Size([80, 20])
+2024-07-25 10:54:49,598 - INFO - lstm.bias_ih_l0 - torch.Size([80])
+2024-07-25 10:54:49,600 - INFO - lstm.bias_hh_l0 - torch.Size([80])
+2024-07-25 10:54:49,602 - INFO - linear.weight - torch.Size([1, 20])
+2024-07-25 10:54:49,603 - INFO - linear.bias - torch.Size([1])
+2024-07-25 10:54:49,605 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 10:54:49,608 - INFO - Learning Rate: 0.001
+2024-07-25 10:54:49,610 - INFO - Loss Function: MSELoss()
+2024-07-25 10:54:49,612 - INFO - Number of Epochs: 1000
+2024-07-25 10:59:00,084 - INFO - Epoch [100/1000], Train Loss: 0.8864, Val Loss: 0.6701
+2024-07-25 10:59:03,827 - INFO - Epoch [200/1000], Train Loss: 0.4324, Val Loss: 0.8965
+2024-07-25 10:59:07,389 - INFO - Epoch [300/1000], Train Loss: 0.3708, Val Loss: 0.8830
+2024-07-25 10:59:11,005 - INFO - Epoch [400/1000], Train Loss: 0.2455, Val Loss: 0.7328
+2024-07-25 10:59:14,829 - INFO - Epoch [500/1000], Train Loss: 0.3758, Val Loss: 1.0799
+2024-07-25 10:59:18,515 - INFO - Epoch [600/1000], Train Loss: 0.3769, Val Loss: 1.0083
+2024-07-25 10:59:22,171 - INFO - Epoch [700/1000], Train Loss: 0.4029, Val Loss: 0.6784
+2024-07-25 10:59:25,910 - INFO - Epoch [800/1000], Train Loss: 0.3956, Val Loss: 0.6314
+2024-07-25 10:59:29,566 - INFO - Epoch [900/1000], Train Loss: 0.3705, Val Loss: 0.7050
+2024-07-25 10:59:33,099 - INFO - Epoch [1000/1000], Train Loss: 0.4768, Val Loss: 1.0965
+2024-07-25 10:59:33,131 - INFO - Predicted values: [[4480.5815]
+ [2974.7808]
+ [2148.5688]
+ ...
+ [2344.939 ]
+ [2304.1353]
+ [2348.328 ]]
+2024-07-25 10:59:33,134 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 10:59:33,137 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 50, batch_first=True)
+  (linear): Linear(in_features=50, out_features=1, bias=True)
+)
+2024-07-25 10:59:33,138 - INFO - Layers and Parameters:
+2024-07-25 10:59:33,141 - INFO - lstm.weight_ih_l0 - torch.Size([200, 1])
+2024-07-25 10:59:33,142 - INFO - lstm.weight_hh_l0 - torch.Size([200, 50])
+2024-07-25 10:59:33,145 - INFO - lstm.bias_ih_l0 - torch.Size([200])
+2024-07-25 10:59:33,147 - INFO - lstm.bias_hh_l0 - torch.Size([200])
+2024-07-25 10:59:33,149 - INFO - linear.weight - torch.Size([1, 50])
+2024-07-25 10:59:33,150 - INFO - linear.bias - torch.Size([1])
+2024-07-25 10:59:33,152 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 10:59:33,155 - INFO - Learning Rate: 0.01
+2024-07-25 10:59:33,157 - INFO - Loss Function: MSELoss()
+2024-07-25 10:59:33,159 - INFO - Number of Epochs: 1000
+2024-07-25 11:00:00,924 - INFO - Epoch [100/1000], Train Loss: 0.4004, Val Loss: 0.7820
+2024-07-25 11:00:04,647 - INFO - Epoch [200/1000], Train Loss: 0.3752, Val Loss: 0.9060
+2024-07-25 11:00:08,306 - INFO - Epoch [300/1000], Train Loss: 0.3137, Val Loss: 0.7985
+2024-07-25 11:00:11,842 - INFO - Epoch [400/1000], Train Loss: 0.3966, Val Loss: 0.6752
+2024-07-25 11:00:15,388 - INFO - Epoch [500/1000], Train Loss: 0.2763, Val Loss: 0.6146
+2024-07-25 11:00:18,973 - INFO - Epoch [600/1000], Train Loss: 0.3497, Val Loss: 0.9060
+2024-07-25 11:00:22,497 - INFO - Epoch [700/1000], Train Loss: 0.3442, Val Loss: 0.8333
+2024-07-25 11:00:26,116 - INFO - Epoch [800/1000], Train Loss: 0.2672, Val Loss: 0.7986
+2024-07-25 11:00:29,679 - INFO - Epoch [900/1000], Train Loss: 0.3988, Val Loss: 0.7485
+2024-07-25 11:00:33,215 - INFO - Epoch [1000/1000], Train Loss: 0.3513, Val Loss: 0.9279
+2024-07-25 11:00:33,253 - INFO - Predicted values: [[4086.0217 ]
+ [1233.4333 ]
+ [-329.93408]
+ ...
+ [7530.0527 ]
+ [7613.385  ]
+ [7545.2354 ]]
+2024-07-25 11:00:33,256 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 11:00:33,259 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 50, batch_first=True)
+  (linear): Linear(in_features=50, out_features=1, bias=True)
+)
+2024-07-25 11:00:33,261 - INFO - Layers and Parameters:
+2024-07-25 11:00:33,262 - INFO - lstm.weight_ih_l0 - torch.Size([200, 1])
+2024-07-25 11:00:33,264 - INFO - lstm.weight_hh_l0 - torch.Size([200, 50])
+2024-07-25 11:00:33,265 - INFO - lstm.bias_ih_l0 - torch.Size([200])
+2024-07-25 11:00:33,267 - INFO - lstm.bias_hh_l0 - torch.Size([200])
+2024-07-25 11:00:33,269 - INFO - linear.weight - torch.Size([1, 50])
+2024-07-25 11:00:33,271 - INFO - linear.bias - torch.Size([1])
+2024-07-25 11:00:33,273 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 11:00:33,276 - INFO - Learning Rate: 0.01
+2024-07-25 11:00:33,278 - INFO - Loss Function: MSELoss()
+2024-07-25 11:00:33,280 - INFO - Number of Epochs: 1000
+2024-07-25 11:01:44,476 - INFO - Epoch [100/1000], Train Loss: 0.4971, Val Loss: 0.5576
+2024-07-25 11:02:09,552 - INFO - Epoch [200/1000], Train Loss: 0.3872, Val Loss: 0.9484
+2024-07-25 11:02:32,583 - INFO - Epoch [300/1000], Train Loss: 0.5612, Val Loss: 0.8917
+2024-07-25 11:02:53,687 - INFO - Epoch [400/1000], Train Loss: 0.2031, Val Loss: 0.7156
+2024-07-25 11:03:14,982 - INFO - Epoch [500/1000], Train Loss: 0.1884, Val Loss: 1.0113
+2024-07-25 11:03:36,171 - INFO - Epoch [600/1000], Train Loss: 0.1910, Val Loss: 1.2035
+2024-07-25 11:03:57,417 - INFO - Epoch [700/1000], Train Loss: 0.0330, Val Loss: 1.2968
+2024-07-25 11:04:18,391 - INFO - Epoch [800/1000], Train Loss: 0.0203, Val Loss: 1.3710
+2024-07-25 11:04:40,938 - INFO - Epoch [900/1000], Train Loss: 0.0892, Val Loss: 0.7196
+2024-07-25 11:05:03,038 - INFO - Epoch [1000/1000], Train Loss: 0.0565, Val Loss: 0.9327
+2024-07-25 11:05:03,132 - INFO - Predicted values: [[1898.1267  ]
+ [-458.71924 ]
+ [  19.822754]
+ ...
+ [6223.0454  ]
+ [6211.2036  ]
+ [6215.506   ]]
+2024-07-25 11:05:03,136 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 11:05:03,138 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, num_layers=2, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 11:05:03,144 - INFO - Layers and Parameters:
+2024-07-25 11:05:03,150 - INFO - lstm.weight_ih_l0 - torch.Size([512, 1])
+2024-07-25 11:05:03,151 - INFO - lstm.weight_hh_l0 - torch.Size([512, 128])
+2024-07-25 11:05:03,153 - INFO - lstm.bias_ih_l0 - torch.Size([512])
+2024-07-25 11:05:03,155 - INFO - lstm.bias_hh_l0 - torch.Size([512])
+2024-07-25 11:05:03,157 - INFO - lstm.weight_ih_l1 - torch.Size([512, 128])
+2024-07-25 11:05:03,160 - INFO - lstm.weight_hh_l1 - torch.Size([512, 128])
+2024-07-25 11:05:03,161 - INFO - lstm.bias_ih_l1 - torch.Size([512])
+2024-07-25 11:05:03,163 - INFO - lstm.bias_hh_l1 - torch.Size([512])
+2024-07-25 11:05:03,164 - INFO - linear.weight - torch.Size([1, 128])
+2024-07-25 11:05:03,165 - INFO - linear.bias - torch.Size([1])
+2024-07-25 11:05:03,168 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 11:05:03,170 - INFO - Learning Rate: 0.01
+2024-07-25 11:05:03,172 - INFO - Loss Function: MSELoss()
+2024-07-25 11:05:03,174 - INFO - Number of Epochs: 1000
+2024-07-25 11:06:28,876 - INFO - Epoch [100/1000], Train Loss: 0.5880, Val Loss: 1.0232
+2024-07-25 11:06:46,184 - INFO - Epoch [200/1000], Train Loss: 0.5674, Val Loss: 1.0479
+2024-07-25 11:07:03,733 - INFO - Epoch [300/1000], Train Loss: 0.4954, Val Loss: 2.0174
+2024-07-25 11:07:21,087 - INFO - Epoch [400/1000], Train Loss: 0.5682, Val Loss: 0.8963
+2024-07-25 11:07:38,117 - INFO - Epoch [500/1000], Train Loss: 0.5213, Val Loss: 0.9901
+2024-07-25 11:07:55,433 - INFO - Epoch [600/1000], Train Loss: 0.5197, Val Loss: 0.9791
+2024-07-25 11:08:12,796 - INFO - Epoch [700/1000], Train Loss: 0.4827, Val Loss: 0.9736
+2024-07-25 11:08:31,777 - INFO - Epoch [800/1000], Train Loss: 0.5586, Val Loss: 1.0466
+2024-07-25 11:08:50,635 - INFO - Epoch [900/1000], Train Loss: 0.5026, Val Loss: 1.0299
+2024-07-25 11:09:08,667 - INFO - Epoch [1000/1000], Train Loss: 0.7046, Val Loss: 1.5634
+2024-07-25 11:09:08,767 - INFO - Predicted values: [[4431.943 ]
+ [4170.105 ]
+ [3720.4375]
+ ...
+ [2340.8308]
+ [2326.5532]
+ [2331.218 ]]
+2024-07-25 11:09:08,777 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 11:09:08,777 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, num_layers=2, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 11:09:08,786 - INFO - Layers and Parameters:
+2024-07-25 11:09:08,790 - INFO - lstm.weight_ih_l0 - torch.Size([512, 1])
+2024-07-25 11:09:08,792 - INFO - lstm.weight_hh_l0 - torch.Size([512, 128])
+2024-07-25 11:09:08,793 - INFO - lstm.bias_ih_l0 - torch.Size([512])
+2024-07-25 11:09:08,796 - INFO - lstm.bias_hh_l0 - torch.Size([512])
+2024-07-25 11:09:08,798 - INFO - lstm.weight_ih_l1 - torch.Size([512, 128])
+2024-07-25 11:09:08,801 - INFO - lstm.weight_hh_l1 - torch.Size([512, 128])
+2024-07-25 11:09:08,802 - INFO - lstm.bias_ih_l1 - torch.Size([512])
+2024-07-25 11:09:08,804 - INFO - lstm.bias_hh_l1 - torch.Size([512])
+2024-07-25 11:09:08,806 - INFO - linear.weight - torch.Size([1, 128])
+2024-07-25 11:09:08,808 - INFO - linear.bias - torch.Size([1])
+2024-07-25 11:09:08,810 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0.01
+)
+2024-07-25 11:09:08,813 - INFO - Learning Rate: 0.01
+2024-07-25 11:09:08,815 - INFO - Loss Function: MSELoss()
+2024-07-25 11:09:08,816 - INFO - Number of Epochs: 1000
+2024-07-25 11:20:57,810 - INFO - Epoch [100/1000], Train Loss: 0.7477, Val Loss: 0.5789
+2024-07-25 11:21:15,938 - INFO - Epoch [200/1000], Train Loss: 0.3646, Val Loss: 1.4056
+2024-07-25 11:21:33,434 - INFO - Epoch [300/1000], Train Loss: 0.2711, Val Loss: 0.8525
+2024-07-25 11:21:51,827 - INFO - Epoch [400/1000], Train Loss: 0.5067, Val Loss: 0.6704
+2024-07-25 11:22:10,592 - INFO - Epoch [500/1000], Train Loss: 0.3686, Val Loss: 0.7233
+2024-07-25 11:22:28,640 - INFO - Epoch [600/1000], Train Loss: 0.3113, Val Loss: 0.7471
+2024-07-25 11:22:46,890 - INFO - Epoch [700/1000], Train Loss: 0.2943, Val Loss: 0.6939
+2024-07-25 11:23:04,714 - INFO - Epoch [800/1000], Train Loss: 0.3938, Val Loss: 0.5641
+2024-07-25 11:23:22,531 - INFO - Epoch [900/1000], Train Loss: 0.3633, Val Loss: 0.8441
+2024-07-25 11:23:40,441 - INFO - Epoch [1000/1000], Train Loss: 0.4532, Val Loss: 0.6021
+2024-07-25 11:23:40,542 - INFO - Predicted values: [[3863.419 ]
+ [1693.6353]
+ [ 563.8474]
+ ...
+ [6343.7515]
+ [6355.3003]
+ [6346.076 ]]
+2024-07-25 11:23:40,546 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 11:23:40,548 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, num_layers=2, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 11:23:40,553 - INFO - Layers and Parameters:
+2024-07-25 11:23:40,557 - INFO - lstm.weight_ih_l0 - torch.Size([512, 1])
+2024-07-25 11:23:40,558 - INFO - lstm.weight_hh_l0 - torch.Size([512, 128])
+2024-07-25 11:23:40,563 - INFO - lstm.bias_ih_l0 - torch.Size([512])
+2024-07-25 11:23:40,564 - INFO - lstm.bias_hh_l0 - torch.Size([512])
+2024-07-25 11:23:40,567 - INFO - lstm.weight_ih_l1 - torch.Size([512, 128])
+2024-07-25 11:23:40,568 - INFO - lstm.weight_hh_l1 - torch.Size([512, 128])
+2024-07-25 11:23:40,571 - INFO - lstm.bias_ih_l1 - torch.Size([512])
+2024-07-25 11:23:40,572 - INFO - lstm.bias_hh_l1 - torch.Size([512])
+2024-07-25 11:23:40,574 - INFO - linear.weight - torch.Size([1, 128])
+2024-07-25 11:23:40,577 - INFO - linear.bias - torch.Size([1])
+2024-07-25 11:23:40,578 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0.0001
+)
+2024-07-25 11:23:40,581 - INFO - Learning Rate: 0.01
+2024-07-25 11:23:40,584 - INFO - Loss Function: MSELoss()
+2024-07-25 11:23:40,585 - INFO - Number of Epochs: 1000
+2024-07-25 11:25:25,915 - INFO - Epoch [100/1000], Train Loss: 0.8396, Val Loss: 0.6185
+2024-07-25 11:25:43,585 - INFO - Epoch [200/1000], Train Loss: 0.3699, Val Loss: 0.6150
+2024-07-25 11:26:00,834 - INFO - Epoch [300/1000], Train Loss: 0.3953, Val Loss: 1.0035
+2024-07-25 11:26:18,075 - INFO - Epoch [400/1000], Train Loss: 0.2654, Val Loss: 0.4438
+2024-07-25 11:26:35,421 - INFO - Epoch [500/1000], Train Loss: 0.3260, Val Loss: 0.8326
+2024-07-25 11:26:53,089 - INFO - Epoch [600/1000], Train Loss: 0.3103, Val Loss: 1.1393
+2024-07-25 11:27:12,870 - INFO - Epoch [700/1000], Train Loss: 0.3656, Val Loss: 0.8645
+2024-07-25 11:27:31,602 - INFO - Epoch [800/1000], Train Loss: 0.2518, Val Loss: 0.8870
+2024-07-25 11:27:48,837 - INFO - Epoch [900/1000], Train Loss: 0.1812, Val Loss: 0.7450
+2024-07-25 11:28:05,846 - INFO - Epoch [1000/1000], Train Loss: 0.1717, Val Loss: 0.6935
+2024-07-25 11:28:05,937 - INFO - Predicted values: [[3361.4692 ]
+ [ 989.36597]
+ [ 248.35889]
+ ...
+ [2585.1255 ]
+ [2589.145  ]
+ [2560.6748 ]]
+2024-07-25 11:28:05,940 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 11:28:05,946 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, num_layers=2, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 11:28:05,948 - INFO - Layers and Parameters:
+2024-07-25 11:28:05,951 - INFO - lstm.weight_ih_l0 - torch.Size([512, 1])
+2024-07-25 11:28:05,952 - INFO - lstm.weight_hh_l0 - torch.Size([512, 128])
+2024-07-25 11:28:05,957 - INFO - lstm.bias_ih_l0 - torch.Size([512])
+2024-07-25 11:28:05,958 - INFO - lstm.bias_hh_l0 - torch.Size([512])
+2024-07-25 11:28:05,960 - INFO - lstm.weight_ih_l1 - torch.Size([512, 128])
+2024-07-25 11:28:05,963 - INFO - lstm.weight_hh_l1 - torch.Size([512, 128])
+2024-07-25 11:28:05,965 - INFO - lstm.bias_ih_l1 - torch.Size([512])
+2024-07-25 11:28:05,966 - INFO - lstm.bias_hh_l1 - torch.Size([512])
+2024-07-25 11:28:05,969 - INFO - linear.weight - torch.Size([1, 128])
+2024-07-25 11:28:05,970 - INFO - linear.bias - torch.Size([1])
+2024-07-25 11:28:05,971 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.005
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 11:28:05,974 - INFO - Learning Rate: 0.005
+2024-07-25 11:28:05,976 - INFO - Loss Function: MSELoss()
+2024-07-25 11:28:05,977 - INFO - Number of Epochs: 1000
+2024-07-25 11:29:13,232 - INFO - Epoch [100/1000], Train Loss: 0.8781, Val Loss: 0.5602
+2024-07-25 11:29:32,579 - INFO - Epoch [200/1000], Train Loss: 0.3871, Val Loss: 1.1136
+2024-07-25 11:29:50,646 - INFO - Epoch [300/1000], Train Loss: 0.4228, Val Loss: 1.1750
+2024-07-25 11:30:08,795 - INFO - Epoch [400/1000], Train Loss: 0.3241, Val Loss: 0.6662
+2024-07-25 11:30:26,842 - INFO - Epoch [500/1000], Train Loss: 0.3562, Val Loss: 1.0530
+2024-07-25 11:30:44,225 - INFO - Epoch [600/1000], Train Loss: 0.2663, Val Loss: 1.1352
+2024-07-25 11:31:01,712 - INFO - Epoch [700/1000], Train Loss: 0.2408, Val Loss: 1.1955
+2024-07-25 11:31:19,425 - INFO - Epoch [800/1000], Train Loss: 0.3282, Val Loss: 0.6196
+2024-07-25 11:31:37,275 - INFO - Epoch [900/1000], Train Loss: 0.3642, Val Loss: 0.6689
+2024-07-25 11:31:54,598 - INFO - Epoch [1000/1000], Train Loss: 0.1852, Val Loss: 0.9564
+2024-07-25 11:31:54,702 - INFO - Predicted values: [[2389.9185 ]
+ [-782.52783]
+ [-136.97217]
+ ...
+ [4647.0254 ]
+ [4657.062  ]
+ [4662.7876 ]]
+2024-07-25 11:31:54,705 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 11:31:54,709 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, num_layers=2, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 11:31:54,712 - INFO - Layers and Parameters:
+2024-07-25 11:31:54,717 - INFO - lstm.weight_ih_l0 - torch.Size([512, 1])
+2024-07-25 11:31:54,720 - INFO - lstm.weight_hh_l0 - torch.Size([512, 128])
+2024-07-25 11:31:54,724 - INFO - lstm.bias_ih_l0 - torch.Size([512])
+2024-07-25 11:31:54,726 - INFO - lstm.bias_hh_l0 - torch.Size([512])
+2024-07-25 11:31:54,729 - INFO - lstm.weight_ih_l1 - torch.Size([512, 128])
+2024-07-25 11:31:54,731 - INFO - lstm.weight_hh_l1 - torch.Size([512, 128])
+2024-07-25 11:31:54,734 - INFO - lstm.bias_ih_l1 - torch.Size([512])
+2024-07-25 11:31:54,737 - INFO - lstm.bias_hh_l1 - torch.Size([512])
+2024-07-25 11:31:54,739 - INFO - linear.weight - torch.Size([1, 128])
+2024-07-25 11:31:54,741 - INFO - linear.bias - torch.Size([1])
+2024-07-25 11:31:54,742 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 11:31:54,747 - INFO - Learning Rate: 0.01
+2024-07-25 11:31:54,749 - INFO - Loss Function: MSELoss()
+2024-07-25 11:31:54,751 - INFO - Number of Epochs: 1000
+2024-07-25 11:39:53,712 - INFO - Epoch [100/1000], Train Loss: 0.6930, Val Loss: 1.1750
+2024-07-25 11:39:56,425 - INFO - Epoch [200/1000], Train Loss: 0.2040, Val Loss: 1.2296
+2024-07-25 11:39:59,165 - INFO - Epoch [300/1000], Train Loss: 0.2409, Val Loss: 1.4889
+2024-07-25 11:40:02,250 - INFO - Epoch [400/1000], Train Loss: 0.2165, Val Loss: 1.0504
+2024-07-25 11:40:05,188 - INFO - Epoch [500/1000], Train Loss: 0.1901, Val Loss: 1.0395
+2024-07-25 11:40:08,037 - INFO - Epoch [600/1000], Train Loss: 0.1994, Val Loss: 1.3988
+2024-07-25 11:40:10,830 - INFO - Epoch [700/1000], Train Loss: 0.1681, Val Loss: 1.2203
+2024-07-25 11:40:13,643 - INFO - Epoch [800/1000], Train Loss: 0.2070, Val Loss: 1.7747
+2024-07-25 11:40:16,853 - INFO - Epoch [900/1000], Train Loss: 0.2220, Val Loss: 1.5729
+2024-07-25 11:40:19,620 - INFO - Epoch [1000/1000], Train Loss: 0.1724, Val Loss: 1.4152
+2024-07-25 11:40:19,658 - INFO - Predicted values: [[3931.301 ]
+ [1999.4834]
+ [ 853.9419]
+ ...
+ [2210.1484]
+ [2174.8142]
+ [2192.248 ]]
+2024-07-25 11:40:19,662 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 11:40:19,667 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 50, batch_first=True)
+  (linear): Linear(in_features=50, out_features=1, bias=True)
+)
+2024-07-25 11:40:19,669 - INFO - Layers and Parameters:
+2024-07-25 11:40:19,674 - INFO - lstm.weight_ih_l0 - torch.Size([200, 1])
+2024-07-25 11:40:19,676 - INFO - lstm.weight_hh_l0 - torch.Size([200, 50])
+2024-07-25 11:40:19,679 - INFO - lstm.bias_ih_l0 - torch.Size([200])
+2024-07-25 11:40:19,680 - INFO - lstm.bias_hh_l0 - torch.Size([200])
+2024-07-25 11:40:19,682 - INFO - linear.weight - torch.Size([1, 50])
+2024-07-25 11:40:19,684 - INFO - linear.bias - torch.Size([1])
+2024-07-25 11:40:19,686 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 11:40:19,690 - INFO - Learning Rate: 0.01
+2024-07-25 11:40:19,692 - INFO - Loss Function: MSELoss()
+2024-07-25 11:40:19,693 - INFO - Number of Epochs: 1000
+2024-07-25 13:45:33,305 - INFO - Epoch [100/1000], Train Loss: 0.3729, Val Loss: 0.6719
+2024-07-25 13:45:36,223 - INFO - Epoch [200/1000], Train Loss: 0.2368, Val Loss: 1.1929
+2024-07-25 13:45:38,939 - INFO - Epoch [300/1000], Train Loss: 0.1892, Val Loss: 1.5087
+2024-07-25 13:45:41,891 - INFO - Epoch [400/1000], Train Loss: 0.2128, Val Loss: 0.9815
+2024-07-25 13:45:44,776 - INFO - Epoch [500/1000], Train Loss: 0.3723, Val Loss: 0.5735
+2024-07-25 13:45:47,758 - INFO - Epoch [600/1000], Train Loss: 0.2276, Val Loss: 1.0192
+2024-07-25 13:45:50,614 - INFO - Epoch [700/1000], Train Loss: 0.1900, Val Loss: 1.4027
+2024-07-25 13:45:53,432 - INFO - Epoch [800/1000], Train Loss: 0.1433, Val Loss: 1.2103
+2024-07-25 13:45:56,205 - INFO - Epoch [900/1000], Train Loss: 0.2682, Val Loss: 1.1495
+2024-07-25 13:45:59,097 - INFO - Epoch [1000/1000], Train Loss: 0.1722, Val Loss: 1.4317
+2024-07-25 13:45:59,143 - INFO - Predicted values: [[3946.0862 ]
+ [1216.3713 ]
+ [ 156.90234]
+ ...
+ [6303.5664 ]
+ [6290.2246 ]
+ [6295.972  ]]
+2024-07-25 13:45:59,147 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 13:45:59,347 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 50, batch_first=True)
+  (linear): Linear(in_features=50, out_features=1, bias=True)
+)
+2024-07-25 13:45:59,347 - INFO - Layers and Parameters:
+2024-07-25 13:45:59,347 - INFO - lstm.weight_ih_l0 - [200, 1]
+2024-07-25 13:45:59,347 - INFO - lstm.weight_hh_l0 - [200, 50]
+2024-07-25 13:45:59,356 - INFO - lstm.bias_ih_l0 - [200]
+2024-07-25 13:45:59,357 - INFO - lstm.bias_hh_l0 - [200]
+2024-07-25 13:45:59,360 - INFO - linear.weight - [1, 50]
+2024-07-25 13:45:59,362 - INFO - linear.bias - [1]
+2024-07-25 13:45:59,364 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 13:45:59,368 - INFO - Learning Rate: 0.01
+2024-07-25 13:45:59,369 - INFO - Loss Function: MSELoss()
+2024-07-25 13:45:59,370 - INFO - Number of Epochs: 1000
+2024-07-25 13:45:59,495 - INFO - Training details saved to P:\fb-fa\99_hiwis\valiyev\lens1\plots\ml_trainings\training_20240725_134559/training_details.json
+2024-07-25 13:52:33,687 - INFO - Epoch [100/1000], Train Loss: 0.4850, Val Loss: 0.8684
+2024-07-25 13:52:48,142 - INFO - Epoch [200/1000], Train Loss: 0.3641, Val Loss: 1.1040
+2024-07-25 13:53:03,278 - INFO - Epoch [300/1000], Train Loss: 0.2570, Val Loss: 1.1544
+2024-07-25 13:53:17,644 - INFO - Epoch [400/1000], Train Loss: 0.2296, Val Loss: 1.0218
+2024-07-25 13:53:32,400 - INFO - Epoch [500/1000], Train Loss: 0.1948, Val Loss: 1.0544
+2024-07-25 13:53:47,889 - INFO - Epoch [600/1000], Train Loss: 0.1416, Val Loss: 1.1688
+2024-07-25 13:54:02,667 - INFO - Epoch [700/1000], Train Loss: 0.1655, Val Loss: 1.0435
+2024-07-25 13:54:16,520 - INFO - Epoch [800/1000], Train Loss: 0.1717, Val Loss: 1.2124
+2024-07-25 13:54:30,961 - INFO - Epoch [900/1000], Train Loss: 0.2090, Val Loss: 1.5425
+2024-07-25 13:54:46,010 - INFO - Epoch [1000/1000], Train Loss: 0.1657, Val Loss: 1.3922
+2024-07-25 13:54:46,104 - INFO - Predicted values: [[1772.8398  ]
+ [-189.64404 ]
+ [-112.743164]
+ ...
+ [3415.8438  ]
+ [3396.1978  ]
+ [3405.1543  ]]
+2024-07-25 13:54:46,107 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 13:54:46,357 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, num_layers=2, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 13:54:46,360 - INFO - Layers and Parameters:
+2024-07-25 13:54:46,362 - INFO - lstm.weight_ih_l0 - [512, 1]
+2024-07-25 13:54:46,368 - INFO - lstm.weight_hh_l0 - [512, 128]
+2024-07-25 13:54:46,370 - INFO - lstm.bias_ih_l0 - [512]
+2024-07-25 13:54:46,373 - INFO - lstm.bias_hh_l0 - [512]
+2024-07-25 13:54:46,375 - INFO - lstm.weight_ih_l1 - [512, 128]
+2024-07-25 13:54:46,378 - INFO - lstm.weight_hh_l1 - [512, 128]
+2024-07-25 13:54:46,379 - INFO - lstm.bias_ih_l1 - [512]
+2024-07-25 13:54:46,381 - INFO - lstm.bias_hh_l1 - [512]
+2024-07-25 13:54:46,382 - INFO - linear.weight - [1, 128]
+2024-07-25 13:54:46,385 - INFO - linear.bias - [1]
+2024-07-25 13:54:46,386 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 13:54:46,390 - INFO - Learning Rate: 0.01
+2024-07-25 13:54:46,393 - INFO - Loss Function: MSELoss()
+2024-07-25 13:54:46,395 - INFO - Number of Epochs: 1000
+2024-07-25 13:54:46,516 - INFO - Training details saved to P:\fb-fa\99_hiwis\valiyev\lens1\plots\ml_trainings\training_20240725_135446/training_details.json
+2024-07-25 13:57:46,938 - INFO - Epoch [100/1000], Train Loss: 0.3920, Val Loss: 0.6972
+2024-07-25 13:58:01,049 - INFO - Epoch [200/1000], Train Loss: 0.3186, Val Loss: 1.2780
+2024-07-25 13:58:15,702 - INFO - Epoch [300/1000], Train Loss: 0.2472, Val Loss: 1.3872
+2024-07-25 13:58:30,938 - INFO - Epoch [400/1000], Train Loss: 0.3354, Val Loss: 1.1994
+2024-07-25 13:58:45,570 - INFO - Epoch [500/1000], Train Loss: 0.4842, Val Loss: 1.0554
+2024-07-25 13:59:00,106 - INFO - Epoch [600/1000], Train Loss: 0.2139, Val Loss: 1.1085
+2024-07-25 13:59:14,931 - INFO - Epoch [700/1000], Train Loss: 0.2654, Val Loss: 1.3183
+2024-07-25 13:59:29,364 - INFO - Epoch [800/1000], Train Loss: 0.1372, Val Loss: 1.3705
+2024-07-25 13:59:43,848 - INFO - Epoch [900/1000], Train Loss: 0.1217, Val Loss: 1.3365
+2024-07-25 13:59:58,128 - INFO - Epoch [1000/1000], Train Loss: 0.1107, Val Loss: 1.6034
+2024-07-25 13:59:58,243 - INFO - Predicted values: [[ 288.16406 ]
+ [  67.773926]
+ [-223.35693 ]
+ ...
+ [-611.08496 ]
+ [-654.4219  ]
+ [-648.73486 ]]
+2024-07-25 13:59:58,245 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 13:59:58,458 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, num_layers=2, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 13:59:58,458 - INFO - Layers and Parameters:
+2024-07-25 13:59:58,458 - INFO - lstm.weight_ih_l0 - [512, 1]
+2024-07-25 13:59:58,469 - INFO - lstm.weight_hh_l0 - [512, 128]
+2024-07-25 13:59:58,470 - INFO - lstm.bias_ih_l0 - [512]
+2024-07-25 13:59:58,474 - INFO - lstm.bias_hh_l0 - [512]
+2024-07-25 13:59:58,475 - INFO - lstm.weight_ih_l1 - [512, 128]
+2024-07-25 13:59:58,477 - INFO - lstm.weight_hh_l1 - [512, 128]
+2024-07-25 13:59:58,479 - INFO - lstm.bias_ih_l1 - [512]
+2024-07-25 13:59:58,481 - INFO - lstm.bias_hh_l1 - [512]
+2024-07-25 13:59:58,482 - INFO - linear.weight - [1, 128]
+2024-07-25 13:59:58,485 - INFO - linear.bias - [1]
+2024-07-25 13:59:58,487 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 13:59:58,490 - INFO - Learning Rate: 0.01
+2024-07-25 13:59:58,491 - INFO - Loss Function: MSELoss()
+2024-07-25 13:59:58,492 - INFO - Number of Epochs: 1000
+2024-07-25 13:59:58,615 - INFO - Training details saved to P:\fb-fa\99_hiwis\valiyev\lens1\plots\ml_trainings\training_20240725_135958/training_details.json
+2024-07-25 14:00:24,102 - INFO - Epoch [100/1000], Train Loss: 0.4886, Val Loss: 0.9402
+2024-07-25 14:00:30,950 - INFO - Epoch [200/1000], Train Loss: 0.2569, Val Loss: 1.0961
+2024-07-25 14:00:37,383 - INFO - Epoch [300/1000], Train Loss: 0.7222, Val Loss: 0.9576
+2024-07-25 14:00:44,634 - INFO - Epoch [400/1000], Train Loss: 0.2177, Val Loss: 0.6449
+2024-07-25 14:00:51,088 - INFO - Epoch [500/1000], Train Loss: 0.2136, Val Loss: 0.6962
+2024-07-25 14:00:57,757 - INFO - Epoch [600/1000], Train Loss: 0.2066, Val Loss: 0.6694
+2024-07-25 14:01:04,320 - INFO - Epoch [700/1000], Train Loss: 0.1634, Val Loss: 0.6785
+2024-07-25 14:01:10,717 - INFO - Epoch [800/1000], Train Loss: 0.1976, Val Loss: 0.6424
+2024-07-25 14:01:17,146 - INFO - Epoch [900/1000], Train Loss: 0.1694, Val Loss: 0.8587
+2024-07-25 14:01:23,720 - INFO - Epoch [1000/1000], Train Loss: 0.0979, Val Loss: 1.6762
+2024-07-25 14:01:23,782 - INFO - Predicted values: [[3887.3843 ]
+ [ 511.77026]
+ [-895.333  ]
+ ...
+ [3917.0242 ]
+ [3815.5762 ]
+ [3874.4014 ]]
+2024-07-25 14:01:23,786 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 14:01:23,990 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 14:01:23,990 - INFO - Layers and Parameters:
+2024-07-25 14:01:23,990 - INFO - lstm.weight_ih_l0 - [512, 1]
+2024-07-25 14:01:23,990 - INFO - lstm.weight_hh_l0 - [512, 128]
+2024-07-25 14:01:24,001 - INFO - lstm.bias_ih_l0 - [512]
+2024-07-25 14:01:24,004 - INFO - lstm.bias_hh_l0 - [512]
+2024-07-25 14:01:24,005 - INFO - linear.weight - [1, 128]
+2024-07-25 14:01:24,008 - INFO - linear.bias - [1]
+2024-07-25 14:01:24,010 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 14:01:24,014 - INFO - Learning Rate: 0.01
+2024-07-25 14:01:24,016 - INFO - Loss Function: MSELoss()
+2024-07-25 14:01:24,018 - INFO - Number of Epochs: 1000
+2024-07-25 14:01:24,149 - INFO - Training details saved to P:\fb-fa\99_hiwis\valiyev\lens1\plots\ml_trainings\training_20240725_140123/training_details.json
+2024-07-25 14:22:41,156 - INFO - Predicted values: [[4011.5037]
+ [2963.3462]
+ [2653.5176]
+ ...
+ [3366.5298]
+ [3951.167 ]
+ [2449.5608]]
+2024-07-25 14:22:41,160 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 14:22:41,400 - INFO - Model Architecture: FeedForwardNN(
+  (layer1): Linear(in_features=1, out_features=128, bias=True)
+  (layer2): Linear(in_features=128, out_features=256, bias=True)
+  (layer3): Linear(in_features=256, out_features=512, bias=True)
+  (layer4): Linear(in_features=512, out_features=256, bias=True)
+  (layer5): Linear(in_features=256, out_features=128, bias=True)
+  (layer6): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 14:22:41,400 - INFO - Layers and Parameters:
+2024-07-25 14:22:41,400 - INFO - layer1.weight - [128, 1]
+2024-07-25 14:22:41,410 - INFO - layer1.bias - [128]
+2024-07-25 14:22:41,413 - INFO - layer2.weight - [256, 128]
+2024-07-25 14:22:41,415 - INFO - layer2.bias - [256]
+2024-07-25 14:22:41,421 - INFO - layer3.weight - [512, 256]
+2024-07-25 14:22:41,426 - INFO - layer3.bias - [512]
+2024-07-25 14:22:41,428 - INFO - layer4.weight - [256, 512]
+2024-07-25 14:22:41,433 - INFO - layer4.bias - [256]
+2024-07-25 14:22:41,435 - INFO - layer5.weight - [128, 256]
+2024-07-25 14:22:41,439 - INFO - layer5.bias - [128]
+2024-07-25 14:22:41,441 - INFO - layer6.weight - [1, 128]
+2024-07-25 14:22:41,445 - INFO - layer6.bias - [1]
+2024-07-25 14:22:41,446 - INFO - Optimizer: SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)
+2024-07-25 14:22:41,449 - INFO - Learning Rate: 0.001
+2024-07-25 14:22:41,450 - INFO - Loss Function: MSELoss()
+2024-07-25 14:22:41,452 - INFO - Number of Epochs: 1000
+2024-07-25 14:22:41,600 - INFO - Training details saved to P:\fb-fa\99_hiwis\valiyev\lens1\plots\ml_trainings\training_20240725_142241/training_details.json
+2024-07-25 14:23:55,796 - INFO - Epoch [100/1000], Train Loss: 0.5110, Val Loss: 1.0371
+2024-07-25 14:24:04,516 - INFO - Epoch [200/1000], Train Loss: 0.3728, Val Loss: 0.5415
+2024-07-25 14:24:12,993 - INFO - Epoch [300/1000], Train Loss: 0.3477, Val Loss: 1.5503
+2024-07-25 14:24:21,469 - INFO - Epoch [400/1000], Train Loss: 0.4063, Val Loss: 0.7695
+2024-07-25 14:24:29,959 - INFO - Epoch [500/1000], Train Loss: 0.3423, Val Loss: 0.7314
+2024-07-25 14:24:38,425 - INFO - Epoch [600/1000], Train Loss: 0.3476, Val Loss: 0.6718
+2024-07-25 14:24:47,106 - INFO - Epoch [700/1000], Train Loss: 0.3412, Val Loss: 0.7113
+2024-07-25 14:24:55,796 - INFO - Epoch [800/1000], Train Loss: 0.3699, Val Loss: 1.0856
+2024-07-25 14:25:04,669 - INFO - Epoch [900/1000], Train Loss: 0.1835, Val Loss: 0.7717
+2024-07-25 14:25:13,626 - INFO - Epoch [1000/1000], Train Loss: 0.2803, Val Loss: 0.6185
+2024-07-25 14:25:13,690 - INFO - Predicted values: [[3729.357   ]
+ [ 645.63306 ]
+ [ -32.853027]
+ ...
+ [7434.716   ]
+ [7391.045   ]
+ [7416.536   ]]
+2024-07-25 14:25:13,694 - INFO - Actual values: [   0    0    0 ... 2144 2138 2156]
+2024-07-25 14:25:13,947 - INFO - Model Architecture: LSTM(
+  (lstm): LSTM(1, 128, batch_first=True)
+  (linear): Linear(in_features=128, out_features=1, bias=True)
+)
+2024-07-25 14:25:13,949 - INFO - Layers and Parameters:
+2024-07-25 14:25:13,951 - INFO - lstm.weight_ih_l0 - [512, 1]
+2024-07-25 14:25:13,954 - INFO - lstm.weight_hh_l0 - [512, 128]
+2024-07-25 14:25:13,956 - INFO - lstm.bias_ih_l0 - [512]
+2024-07-25 14:25:13,959 - INFO - lstm.bias_hh_l0 - [512]
+2024-07-25 14:25:13,961 - INFO - linear.weight - [1, 128]
+2024-07-25 14:25:13,964 - INFO - linear.bias - [1]
+2024-07-25 14:25:13,967 - INFO - Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2024-07-25 14:25:13,971 - INFO - Learning Rate: 0.01
+2024-07-25 14:25:13,974 - INFO - Loss Function: MSELoss()
+2024-07-25 14:25:13,976 - INFO - Number of Epochs: 1000
+2024-07-25 14:25:14,103 - INFO - Training details saved to P:\fb-fa\99_hiwis\valiyev\lens1\plots\ml_trainings\training_20240725_142513/training_details.json

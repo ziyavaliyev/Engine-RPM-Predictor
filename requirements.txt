@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+scipy
+torch
+torchvision
+torchaudio
+jsonschema
+logging

@@ -1,0 +1,51 @@
+{
+    "Model Architecture": "FeedForwardNN(\n  (layer1): Linear(in_features=1, out_features=128, bias=True)\n  (layer2): Linear(in_features=128, out_features=256, bias=True)\n  (layer3): Linear(in_features=256, out_features=512, bias=True)\n  (layer4): Linear(in_features=512, out_features=256, bias=True)\n  (layer5): Linear(in_features=256, out_features=128, bias=True)\n  (layer6): Linear(in_features=128, out_features=1, bias=True)\n)",
+    "Layers and Parameters": {
+        "layer1.weight": [
+            128,
+            1
+        ],
+        "layer1.bias": [
+            128
+        ],
+        "layer2.weight": [
+            256,
+            128
+        ],
+        "layer2.bias": [
+            256
+        ],
+        "layer3.weight": [
+            512,
+            256
+        ],
+        "layer3.bias": [
+            512
+        ],
+        "layer4.weight": [
+            256,
+            512
+        ],
+        "layer4.bias": [
+            256
+        ],
+        "layer5.weight": [
+            128,
+            256
+        ],
+        "layer5.bias": [
+            128
+        ],
+        "layer6.weight": [
+            1,
+            128
+        ],
+        "layer6.bias": [
+            1
+        ]
+    },
+    "Optimizer": "SGD (\nParameter Group 0\n    dampening: 0\n    differentiable: False\n    foreach: None\n    fused: None\n    lr: 0.001\n    maximize: False\n    momentum: 0\n    nesterov: False\n    weight_decay: 0\n)",
+    "Learning Rate": 0.001,
+    "Loss Function": "MSELoss()",
+    "Number of Epochs": 1000
+}
